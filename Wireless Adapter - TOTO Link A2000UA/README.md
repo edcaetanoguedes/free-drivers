@@ -16,5 +16,5 @@
 
 <h2>Drivers</h2>
 
-[Windows 10, 8, 7, XP, Vista](./TOTO%20Link%20-%20A2000UA_Windows%2010_8_7_XP_Vista%20Driver/)
-[Linux](./TOTO%20Link%20-%20A2000UA_Linux_v5.6.4.2%20Driver/)
+- [Windows 10, 8, 7, XP, Vista](./TOTO%20Link%20-%20A2000UA_Windows%2010_8_7_XP_Vista%20Driver/)
+- [Linux](./TOTO%20Link%20-%20A2000UA_Linux_v5.6.4.2%20Driver/)
