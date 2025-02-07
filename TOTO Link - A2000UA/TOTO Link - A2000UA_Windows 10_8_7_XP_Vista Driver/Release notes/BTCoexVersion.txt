@@ -1,0 +1,19 @@
+BtCoexType : Date_WifiCoexVersion_BtCoexVersion
+
+8192e1Ant : 20140527_0x4f
+8192e2Ant : 20160818_0x36_0x44
+8703b1Ant : 20160913_0x0d_0x0d
+8723b1Ant : 20160816_0x68_0x67
+8723b2Ant : 20160816_0x4b_0x4a
+D:\Windows_Server\v1030.15\HAL\rtl8723B\halbtc8723bwifionly.c  Ant : 
+8723d1Ant : 20160805_0x0c_0x0a
+8723d2Ant : 20160805_0x0c_0x0a
+8812a1Ant : 20140708_0x52
+8812a2Ant : 20160805_0x37_0x3c
+8821a1Ant : 20160816_0x63_0x62
+8821a2Ant : 20160816_0x5d_0x5c
+8821c1Ant : 20160913_0x06_0x06
+8821c2Ant : 20160902_0x05_0x05
+8822b1Ant : 20160914_0x2b_0x29
+8822b2Ant : 20160923_0x2d_0x28
+D:\Windows_Server\v1030.15\HAL\rtl8822B\halbtc8822bwifionly.c  Ant : 
