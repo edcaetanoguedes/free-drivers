@@ -1,30 +1,39 @@
 <h1>Free Drivers</h1>
 
-<div class="author">
-  <p>Autor <a href="https://github.com/edcaetanoguedes">Ednaldo Guedes</a>
-  </p>
+<div class="production" align="left">
+  <p>This repository aims to accumulate drivers, the intention is that there are always useful drivers being added and catalogued.</p>
+
+> <sup>Este repositório possui o objetivo de acumular drivers, a intenção é que sempre haja drivers utéis sendo adicionados e catalogados.</sup>
 </div>
 
 <div class="metrics" align="left">
   <img src="https://img.shields.io/github/repo-size/edcaetanoguedes/free-drivers?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/edcaetanoguedes/free-drivers?style=for-the-badge" />
+</div>
+
+<div class="author">
+  <p><a href="https://github.com/edcaetanoguedes">Click here</a> to see other projects in this profile</p>
+  <p><sup><a href="https://github.com/edcaetanoguedes">Clique aqui</a> para conhecer outros projetos deste perfil</sup></p>
 </div>
 
 <div class="social" align="left">
   <img width="3px" alt="" />
   <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-    <img src="./public//icons/linkedin-svgrepo-com.svg" height="32px" alt="Linkedin" />
+    <img src="./icons/linkedin-svgrepo-com.svg" height="32px" alt="Linkedin" />
   </a>
   <img width="3px" alt="" />
   <a href="https://www.instagram.com/ednaldocaetanoguedes">
-    <img src="./public/icons/instagram-svgrepo-com.svg" height="32px" alt="Instagram" />
+    <img src="./icons/instagram-svgrepo-com.svg" height="32px" alt="Instagram" />
   </a>
   <img width="3px" alt="" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=free-drivers" />
 </div>
 
+
+# Catalog
 <table>
     <thead>
-        <td colspan="4">Index</td>
+        <td colspan="4"><h3>Index</h3></td>
       </tr>
     <thead>
         <td>
@@ -36,16 +45,9 @@
         <td>
           <a href="./TOTO%20Link%20-%20A2000UA/README.md">Wireless Adapter TOTO Link A2000UA</a>
         </td>
-        <td>Drivers e utilitário</td>
+        <td>Drivers e utilitário <sup>Pentest/Kali Linux</sup></td>
       </tr>
 </table>
-
-## Version
-> #### Versão
-
-<p>This repository aims to accumulate drivers, the intention is that there are always useful drivers being added and catalogued.</p>
-
-> <sup>Este repositório possui o objetivo de acumular drivers, a intenção é que sempre haja drivers utéis sendo adicionados e catalogados.</sup>
 
 ## Authors
 > #### Autores
