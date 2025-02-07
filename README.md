@@ -34,13 +34,13 @@
 <table>
     <tr>
         <td>
-          Realtek PCIe GbE Family Controller
+          <a href="https://github.com/edcaetanoguedes/free-drivers/tree/main/Realtek%20PCIe%20GBE%20Family%20Controller">Realtek PCIe GbE Family Controller</a>
         </td>
         <td>Controle de conexão de Internet</td>
       </tr>
       <tr>
         <td>
-          Wireless Adapter TOTO Link A2000UA</a>
+          <a href="https://github.com/edcaetanoguedes/free-drivers/tree/main/Wireless%20Adapter%20-%20TOTO%20Link%20A2000UA">Wireless Adapter TOTO Link A2000UA</a>
         </td>
         <td>Drivers e utilitário <sup>Pentest/Kali Linux</sup></td>
       </tr>
